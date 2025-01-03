@@ -1,0 +1,20 @@
+{
+    "games": [
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Orbt.png",
+            "platformUrls": {
+                "android": "https://play.google.com/store/apps/details?id=com.NVS.orbtxl",
+                "ios": "https://apps.apple.com/app/orbt-xl/id1447210308",
+                "steam": "https://store.steampowered.com/app/615610/Orbt_XL/"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Poosh.png",
+            "platformUrls": {
+                "android": "https://play.google.com/store/apps/details?id=com.adamvision.pooshxl",
+                "ios": "https://apps.apple.com/us/app/poosh-xl/id1667181019",
+                "steam": "https://store.steampowered.com/app/2055910/Poosh_XL/"
+            }
+        }
+    ]
+}
