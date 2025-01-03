@@ -1,7 +1,7 @@
 {
     "games": [
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Orbt.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_orbtxl.png",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.NVS.orbtxl",
                 "ios": "https://apps.apple.com/app/orbt-xl/id1447210308",
@@ -9,11 +9,51 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/flipflopxl/main/Poosh.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_pooshxl.png",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.adamvision.pooshxl",
                 "ios": "https://apps.apple.com/us/app/poosh-xl/id1667181019",
                 "steam": "https://store.steampowered.com/app/2055910/Poosh_XL/"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_diamoxl.png",
+            "platformUrls": {
+                "android": "",
+                "ios": "",
+                "steam": "https://store.steampowered.com/app/715010/Diamo_XL/"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_dingdongxl.png",
+            "platformUrls": {
+                "android": "https://play.google.com/store/apps/details?id=com.NVS.dingdongxl",
+                "ios": "https://apps.apple.com/app/ding-dong-xl/id1445475518",
+                "steam": "https://store.steampowered.com/app/862570/Ding_Dong_XL/"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_superbitblasterxl.png",
+            "platformUrls": {
+                "android": "",
+                "ios": "",
+                "steam": "https://store.steampowered.com/app/865040/Super_Bit_Blaster_XL/"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_bitblasterxl.png",
+            "platformUrls": {
+                "android": "",
+                "ios": "",
+                "steam": "https://store.steampowered.com/app/433950/Bit_Blaster_XL"
+            }
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_flipflopxl.png",
+            "platformUrls": {
+                "android": "https://play.google.com/store/apps/details?id=com.adamvision.flipflopxl",
+                "ios": "https://apps.apple.com/app/flip-flop-xl/id6737874719",
+                "steam": "https://store.steampowered.com/app/3298150/Flip_Flop_XL"
             }
         }
     ]
