@@ -1,7 +1,7 @@
 {
     "games": [
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_orbtxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_orbtxl.jpg",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.NVS.orbtxl",
                 "ios": "https://apps.apple.com/app/orbt-xl/id1447210308",
@@ -9,7 +9,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_pooshxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_pooshxl.jpg",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.adamvision.pooshxl",
                 "ios": "https://apps.apple.com/us/app/poosh-xl/id1667181019",
@@ -17,7 +17,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_diamoxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_diamoxl.jpg",
             "platformUrls": {
                 "android": "",
                 "ios": "",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_dingdongxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_dingdongxl.jpg",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.NVS.dingdongxl",
                 "ios": "https://apps.apple.com/app/ding-dong-xl/id1445475518",
@@ -33,7 +33,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_superbitblasterxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_superbitblasterxl.jpg",
             "platformUrls": {
                 "android": "",
                 "ios": "",
@@ -41,7 +41,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_bitblasterxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_bitblasterxl.jpg",
             "platformUrls": {
                 "android": "",
                 "ios": "",
@@ -49,7 +49,7 @@
             }
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_flipflopxl.png",
+            "imageUrl": "https://raw.githubusercontent.com/adamvision/moregamesfrom/main/game_flipflopxl.jpg",
             "platformUrls": {
                 "android": "https://play.google.com/store/apps/details?id=com.adamvision.flipflopxl",
                 "ios": "https://apps.apple.com/app/flip-flop-xl/id6737874719",
